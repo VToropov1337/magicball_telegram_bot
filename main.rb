@@ -1,7 +1,7 @@
 require 'telegram/bot'
 require 'safe_yaml'
 
-TOKEN = 'save.yml'
+TOKEN = YAML.load('tt')
 
 ANSWERS = [
   #положительные

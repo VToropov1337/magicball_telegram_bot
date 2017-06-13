@@ -1,5 +1,5 @@
 require 'telegram/bot'
-require 'safe_yaml'
+require 'yaml'
 
 TOKEN = YAML.load('tt')
 

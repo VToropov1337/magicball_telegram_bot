@@ -1,6 +1,6 @@
 require 'telegram/bot'
 
-TOKEN = '383295403:AAFlDRJXpy7qHiMwfVQ-a8weazodIOhEHYc'
+TOKEN = YAML::load(File.open('save.yaml'))
 
 ANSWERS = [
   #положительные

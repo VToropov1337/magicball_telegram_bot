@@ -1,5 +1,4 @@
 require 'telegram/bot'
-require 'yaml'
 
 TOKEN = '383295403:AAFlDRJXpy7qHiMwfVQ-a8weazodIOhEHYc'
 

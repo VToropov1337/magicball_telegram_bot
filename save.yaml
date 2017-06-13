@@ -1,4 +1,1 @@
-SafeYAML::OPTIONS[:default_mode] = :safe
-SafeYAML::OPTIONS[:deserialize_symbols] = true
-
 tt = '383295403:AAFlDRJXpy7qHiMwfVQ-a8weazodIOhEHYc'

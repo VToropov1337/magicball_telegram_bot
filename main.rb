@@ -1,7 +1,7 @@
 require 'telegram/bot'
 require 'yaml'
 
-TOKEN = YAML.load('tt')
+TOKEN = '383295403:AAFlDRJXpy7qHiMwfVQ-a8weazodIOhEHYc'
 
 ANSWERS = [
   #положительные

@@ -1,1 +1,4 @@
+SafeYAML::OPTIONS[:default_mode] = :safe
+SafeYAML::OPTIONS[:deserialize_symbols] = true
+
 TOKEN = '383295403:AAFlDRJXpy7qHiMwfVQ-a8weazodIOhEHYc'

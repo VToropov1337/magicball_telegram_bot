@@ -1,7 +1,7 @@
 require 'telegram/bot'
 require 'safe_yaml'
 
-TOKEN = YAML::load(File.open('save.yaml'))
+TOKEN = 'save.yml'
 
 ANSWERS = [
   #положительные

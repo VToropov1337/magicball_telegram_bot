@@ -1,7 +1,7 @@
 require 'telegram/bot'
 require 'yaml'
 
-TOKEN = '383295403:AAFlDRJXpy7qHiMwfVQ-a8weazodIOhEHYc'
+TOKEN = '***'
 #TOKEN = YAML::load(IO.read('config.yaml'))['telegram_bot_token']
 
 
